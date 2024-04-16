@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sample Text</string>
+    <string name="create">CREATE AN ACCOUNT</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repeatedPassword">Repeat the password</string>
+    <string name="hide">Hide password</string>
+    <string name="show">Show password</string>
+    <string name="register">Registration</string>
+    <string name="login">LOGIN TO YOUR ACCOUNT</string>
+    <string name="into">Login</string>
+
+</resources>
