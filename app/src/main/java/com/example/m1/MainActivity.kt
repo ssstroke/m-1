@@ -1,4 +1,4 @@
-package com.example.firstlanaapplication
+package com.example.m1
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -9,8 +9,8 @@ import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.example.firstlanaapplication.screens.MainScreen
-import com.example.firstlanaapplication.ui.theme.FirstLanaApplicationTheme
+import com.example.m1.screens.MainScreen
+import com.example.m1.ui.theme.ApplicationTheme
 
 class MainActivity : ComponentActivity() {
     @ExperimentalFoundationApi
@@ -18,7 +18,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            FirstLanaApplicationTheme {
+            ApplicationTheme {
                 Surface (
                     color = MaterialTheme.colorScheme.background,
                     modifier = Modifier.fillMaxSize(),

@@ -1,4 +1,4 @@
-package com.example.firstlanaapplication.ui.theme
+package com.example.m1.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

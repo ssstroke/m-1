@@ -1,4 +1,4 @@
-package com.example.firstlanaapplication
+package com.example.m1
 
 import org.junit.Test
 

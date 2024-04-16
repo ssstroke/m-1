@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "First lana application"
+rootProject.name = "m-1"
 include(":app")

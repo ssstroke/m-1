@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.firstlanaapplication"
+    namespace = "com.example.m1"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.firstlanaapplication"
+        applicationId = "com.example.m1"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
